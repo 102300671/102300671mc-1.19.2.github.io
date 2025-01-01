@@ -1,12 +1,12 @@
 **Minecraft-1.19.2-Forge**  
 **不包括前置mod及扩展**  
-[机械动力](https://www.mcmod.cn/class/2021.html)  
+[机械动力]([https://www.mcmod.cn/class/2021.html](https://www.curseforge.com/minecraft/mc-mods/create))  
 [匠魂3](https://www.mcmod.cn/class/3725.html)  
 [通用机械](https://www.mcmod.cn/class/187.html)  
 [通量网络](https://www.mcmod.cn/class/803.html)  
 [应用能源2](https://www.mcmod.cn/class/260.html)  
 [旅行地图](https://www.mcmod.cn/class/198.html)  
-[JEI](https://www.mcmod.cn/class/459.html)  
+[JEI](https://www.curseforge.com/minecraft/mc-mods/jei)
 [SCV](https://www.mcmod.cn/class/3693.html)  
 [等价交换](https://www.mcmod.cn/class/353.html)  
 [无中生有](https://www.mcmod.cn/class/250.html)  
