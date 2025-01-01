@@ -1,4 +1,3 @@
-<<<<< Minecraft-1.19.2-Forge-mods
 # Minecraft 联机模组一致性仓库
 
 ## 项目目的
