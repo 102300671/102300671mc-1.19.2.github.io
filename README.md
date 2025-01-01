@@ -14,8 +14,7 @@
 
 # Minecraft 1.19.2 Forge 模组集合
 
-欢迎来到 Minecraft 1.19.2 Forge 模组集合的仓库！以下是一些重要的链接：
-
+## 服务器
 - **Discord 服务器**：[加入我们的 Discord 服务器](https://discord.gg/TBrRxaKq))
 
 ## 目录  
