@@ -12,6 +12,12 @@
 ## 许可证
 本项目采用 [MIT 许可证](LICENSE)，允许任何人使用、复制、修改和分发代码，只需保留原作者的版权声明。
 
+# Minecraft 1.19.2 Forge 模组集合
+
+欢迎来到 Minecraft 1.19.2 Forge 模组集合的仓库！以下是一些重要的链接：
+
+- **Discord 服务器**：[加入我们的 Discord 服务器](https://discord.gg/TBrRxaKq))
+
 ## 目录  
 **不包括前置mod及扩展**  
 [机械动力](https://www.curseforge.com/minecraft/mc-mods/create)  
