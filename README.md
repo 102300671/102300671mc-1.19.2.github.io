@@ -15,4 +15,6 @@
 [连锁破坏](https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine-forge)  
  [玉](https://www.curseforge.com/minecraft/mc-mods/jade)  
  [IPN](https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next)  
+ [MGU](https://www.curseforge.com/minecraft/mc-mods/mob-grinding-utils)  
+ [烟花苦力怕](https://www.curseforge.com/minecraft/mc-mods/creeper-confetti)  
  [真实物理](https://www.curseforge.com/minecraft/mc-mods/physics-mod)(位于release中)  
