@@ -1,3 +1,17 @@
+# Minecraft 联机模组一致性仓库
+
+## 项目目的
+该仓库旨在提供 Minecraft 1.19.2 版本的 Forge 模组，确保所有玩家在联机时使用相同的模组，从而避免因模组不一致导致的游戏问题。
+
+## 使用说明
+1. 下载本仓库中的模组文件。
+2. 确保所有玩家都使用相同版本的模组。
+3. 将模组放入 Minecraft 的 `mods` 文件夹中。
+4. 启动 Minecraft 并选择 Forge 版本进行游戏。
+
+## 许可证
+本项目采用 [MIT 许可证](LICENSE)，允许任何人使用、复制、修改和分发代码，只需保留原作者的版权声明。
+
 **Minecraft-1.19.2-Forge**  
 **不包括前置mod及扩展**  
 [机械动力](https://www.curseforge.com/minecraft/mc-mods/create)  
