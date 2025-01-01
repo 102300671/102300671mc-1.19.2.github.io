@@ -12,7 +12,7 @@
 ## 许可证
 本项目采用 [MIT 许可证](LICENSE)，允许任何人使用、复制、修改和分发代码，只需保留原作者的版权声明。
 
-##目录  
+## 目录  
 **不包括前置mod及扩展**  
 [机械动力](https://www.curseforge.com/minecraft/mc-mods/create)  
 [匠魂3](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)  
