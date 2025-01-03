@@ -4,7 +4,7 @@
 该仓库旨在提供 Minecraft 1.19.2 版本的 Forge 模组，确保所有玩家在联机时使用相同的模组，从而避免因模组不一致导致的游戏问题。
 
 ## 使用说明
-1. 下载本仓库中的模组文件。
+1. 下载本仓库releases中对应版本的整合包。
 2. 确保所有玩家都使用相同版本的模组。
 3. 将模组放入 Minecraft 的 `mods` 文件夹中。
 4. 启动 Minecraft 并选择 Forge 版本进行游戏。
@@ -36,4 +36,4 @@
  [IPN](https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next)  
  [MGU](https://www.curseforge.com/minecraft/mc-mods/mob-grinding-utils)  
  [烟花苦力怕](https://www.curseforge.com/minecraft/mc-mods/creeper-confetti)  
- [真实物理](https://www.curseforge.com/minecraft/mc-mods/physics-mod)(位于release中)  
+ [真实物理](https://www.curseforge.com/minecraft/mc-mods/physics-mod)
